@@ -1,0 +1,20 @@
+[
+    {
+        "surname" : "Bennet",
+        "location" : "Meryton"
+    },
+    {
+        "surname" : "Darcy",
+        "location" : "Pemberley"
+    },
+    {
+        "surname" : "Qazi",
+        "location" : "North West"
+    },
+
+    {
+        "surname" : "Ali",
+        "location" : "North East"
+    }
+
+]
