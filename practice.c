@@ -3,4 +3,6 @@
 
 int main(){
     printf("Sabeeh chutiya hai\n");
+    int a = 20;
+    
 }
